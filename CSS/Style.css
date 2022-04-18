@@ -1,0 +1,110 @@
+ * {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+h1 { color: crimson;
+     font-family: 'Paytone One', sans-serif;
+     font-size: 80px;
+
+}
+
+h2 {
+    color: rgb(6, 105, 105);
+    font-family: font-family 'Brygada 1918', serif;;
+    font-size: 30px;
+    
+}
+
+
+strong {
+
+    font-weight: bold;
+}
+
+p { color: rgb(0, 0, 31);
+background: rgb(250, 255, 250) ;
+font-size: 12px;
+text-transform: none;
+ font-family: 'Cardo', serif;;
+line-height: 20px;
+letter-spacing: normal;
+text-decoration: none;
+
+
+}
+
+body {
+    background-color: rgb(248, 242, 233);
+
+
+}
+
+#cite { 
+    color: rgb(83, 12, 83);
+    background-color: rgb(255, 235, 246);
+     font-family: 'Cardo', serif;
+     font-size: 25px;
+     
+
+    
+}
+
+.new-class {
+    color: rgb(2, 43, 2);
+    background-color: rgb(255, 255, 255);
+    font-family: 'Brygada 1918', serif;
+
+}
+
+a {
+font-size: 30px;
+
+}
+
+a:visited {
+
+    color: rgb(250, 246, 17);
+    text-decoration: underline;
+}
+
+a:hover {
+    color: rgb(236, 110, 198);
+    text-decoration: none;
+}
+
+div {
+    color: rgb(236, 148, 148);
+    font-size: 40px;
+}
+
+#shape {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(238, 10, 10);
+    border-radius: 50%;
+    position: absolute;
+    top: 820px;
+}
+
+#contain {
+color: rgb(43, 138, 216);
+font-size: 25px;
+font-family: 'Pathway Gothic One', sans-serif;
+top: 820px;
+
+
+ 
+  
+}
+
+
+
+
+img {
+width: 570px;
+height: 500px;
+
+}
